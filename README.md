@@ -23,8 +23,7 @@ Our findings demonstrate that task vectors define a **semantically meaningful an
 ## 📈 Use Cases
 
 This approach enables:
-- Safer and more controllable text generation.
-- Transparent and interpretable fine-tuning.
+- More controllable text generation.
 - Modular composition of model behaviors.
 - Custom language model outputs aligned with user intent.
 
